@@ -43,13 +43,28 @@ header{
     color: white;
 }
 
+.foot-img{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+     
+}
+
 .title-img{
     font-size: 1.5rem;
-    position: relative;
-    left: 40px;
-    top: 60px;
+    margin-left: 50px;
 }
 
 #last-column{
     text-align: start;
+}
+
+#monitor{
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+}
+
+#graph{
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
 }
