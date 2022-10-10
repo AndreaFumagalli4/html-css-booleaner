@@ -6,8 +6,8 @@ header{
     background-size: 30%;
 }
 
-h5{
-    color: rgb(211, 211, 211);
+.grey{
+    color: darkgrey;
 }
 
 .img{
@@ -25,4 +25,21 @@ h5{
 
 .photo-description{
     font-size: .65rem;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.table-head{
+    color: white;
+    background-color: rgb(30, 144, 255);
+}
+
+.row{
+    background-color: rgb(198, 233, 249);
+}
+
+#last-column{
+    text-align: start;
 }
