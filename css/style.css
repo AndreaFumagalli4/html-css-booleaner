@@ -6,7 +6,23 @@ header{
     background-size: 30%;
 }
 
+h5{
+    color: rgb(211, 211, 211);
+}
+
 .img{
     height: 50px;
     margin-top: 40px;
+}
+
+.the-booleaner{
+    color: rgb(91, 171, 233);
+}
+
+.date{
+    font-size: .65rem;
+}
+
+.photo-description{
+    font-size: .65rem;
 }
